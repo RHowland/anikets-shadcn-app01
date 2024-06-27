@@ -68,7 +68,7 @@ export default async function Home() {
 * File Name      : page.tsx
 * Component Name : Home
 * Component Type : Home Page
-* Date Created   : 2024-06-15
+* Date Created   : 2024-06-25
 * Dev Name       : Aniket Sapra
 * ------------------------------
 * Question: Why was it necessary to create this component?
